@@ -21,6 +21,8 @@ To use the digital clock, simply open the `index.html` file in a web browser. Th
 
 1. Clone the repository to your local machine.
    git clone https://github.com/VISHALSHARMAVS/Digital-Clock
+2. Navigate to the project directory.
+3. Open the index.html file in a web browser.
 
 ## Contributing
 If you'd like to contribute to this project, feel free to submit a pull request. Please follow the existing coding style and guidelines.
